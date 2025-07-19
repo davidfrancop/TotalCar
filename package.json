@@ -1,0 +1,11 @@
+{
+  "name": "totalcar",
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node totalcar.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}

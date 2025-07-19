@@ -1,0 +1,47 @@
+# === GENERAL ===
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite
+*.bak
+.env
+.env.local
+
+# === BACKEND ===
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# === INTRANET ===
+intranet/node_modules/
+intranet/.env
+intranet/.next/
+intranet/.cache/
+intranet/.turbo/
+intranet/dist/
+intranet/build/
+intranet/package-lock.json
+intranet/public/img/*
+!intranet/public/img/TotalCar_Logo_Transparent.png
+
+# === WEB ===
+web/node_modules/
+web/.env
+web/.next/
+web/.cache/
+web/.turbo/
+web/dist/
+web/build/
+web/package-lock.json
+web/public/img/*
+!web/public/img/TotalCar_Logo_Transparent.png
+
+# === IDE/EDITOR ===
+.vscode/
+.idea/
+*.swp
+
+# === OS SYSTEM FILES ===
+ehthumbs.db
+Icon?
+desktop.ini

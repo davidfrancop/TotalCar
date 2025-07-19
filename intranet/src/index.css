@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fondo global para evitar marco blanco alrededor del login */
+html, body, #root {
+  background-color: #002B5B !important;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
