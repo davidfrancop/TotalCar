@@ -45,3 +45,9 @@ web/public/img/*
 ehthumbs.db
 Icon?
 desktop.ini
+
+# === TEMP / SCRIPTS QUE NO QUERÉS EN GIT ===
+generarEstructura.js
+generarEstructuratxt.js
+totalcar_schema.sql
+totalcar.js
